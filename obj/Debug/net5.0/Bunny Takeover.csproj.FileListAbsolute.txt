@@ -1,0 +1,16 @@
+C:\Users\Seika_x\Documents\GitHub\Bunny Takeover\bin\Debug\net5.0\Bunny Takeover.exe
+C:\Users\Seika_x\Documents\GitHub\Bunny Takeover\bin\Debug\net5.0\Bunny Takeover.deps.json
+C:\Users\Seika_x\Documents\GitHub\Bunny Takeover\bin\Debug\net5.0\Bunny Takeover.runtimeconfig.json
+C:\Users\Seika_x\Documents\GitHub\Bunny Takeover\bin\Debug\net5.0\Bunny Takeover.runtimeconfig.dev.json
+C:\Users\Seika_x\Documents\GitHub\Bunny Takeover\bin\Debug\net5.0\Bunny Takeover.dll
+C:\Users\Seika_x\Documents\GitHub\Bunny Takeover\bin\Debug\net5.0\ref\Bunny Takeover.dll
+C:\Users\Seika_x\Documents\GitHub\Bunny Takeover\bin\Debug\net5.0\Bunny Takeover.pdb
+C:\Users\Seika_x\Documents\GitHub\Bunny Takeover\obj\Debug\net5.0\Bunny Takeover.csprojAssemblyReference.cache
+C:\Users\Seika_x\Documents\GitHub\Bunny Takeover\obj\Debug\net5.0\Bunny Takeover.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Seika_x\Documents\GitHub\Bunny Takeover\obj\Debug\net5.0\Bunny Takeover.AssemblyInfoInputs.cache
+C:\Users\Seika_x\Documents\GitHub\Bunny Takeover\obj\Debug\net5.0\Bunny Takeover.AssemblyInfo.cs
+C:\Users\Seika_x\Documents\GitHub\Bunny Takeover\obj\Debug\net5.0\Bunny Takeover.csproj.CoreCompileInputs.cache
+C:\Users\Seika_x\Documents\GitHub\Bunny Takeover\obj\Debug\net5.0\Bunny Takeover.dll
+C:\Users\Seika_x\Documents\GitHub\Bunny Takeover\obj\Debug\net5.0\ref\Bunny Takeover.dll
+C:\Users\Seika_x\Documents\GitHub\Bunny Takeover\obj\Debug\net5.0\Bunny Takeover.pdb
+C:\Users\Seika_x\Documents\GitHub\Bunny Takeover\obj\Debug\net5.0\Bunny Takeover.genruntimeconfig.cache
